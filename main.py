@@ -1,7 +1,3 @@
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 import logging
 from datetime import datetime, timedelta, timezone
 from time import mktime
@@ -68,5 +64,4 @@ def main():
 
 
 if __name__ == '__main__':
-    #  ---проверять новости в СПБ сайте на дубликаты, публиковать только уникальные(новые)
     main()
